@@ -13,13 +13,11 @@ Predict whether a banking customer will subscribe to a term deposit after a dire
 
 ## Contents
 
-- `data/raw/`: Original UCI Bank Marketing dataset download and extracted files.
+- `data_marketing`: Original UCI Bank Marketing dataset download and extracted files.
 - `data_source.md`: Dataset source, citation, license, and download URL.
-- `sql/schema.sql`: Table definition for campaign response analysis.
-- `sql/analysis_queries.sql`: Conversion, channel, segment, and campaign efficiency queries.
-- `src/train_model.py`: Python classification model for term deposit subscription.
-- `dashboards/`: Power BI dashboard guide and DAX measures.
-- `docs/bank_marketing_campaign_report.docx`: Word report.
+- `sql schema.sql`: Table definition for campaign response analysis.
+- `sql analysis_queries.sql`: Conversion, channel, segment, and campaign efficiency queries.
+- `train_model.py`: Python classification model for term deposit subscription.
 
 ## Model
 
